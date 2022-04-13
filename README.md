@@ -9,7 +9,7 @@ based on [py-gfycat](https://github.com/ankeshanand/py-gfycat) a sync wrapper
 <!-- shields -->
 [![PyPi Package Version](https://img.shields.io/pypi/v/async-gfycat.svg)](https://pypi.python.org/pypi/async-gfycat)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/async-gfycat.svg)](https://pypi.python.org/pypi/async-gfycat)
-[![PyPi status](https://img.shields.io/pypi/status/async-gfycat.svg?style=flat-square)](https://pypi.python.org/pypi/async-gfycat)
+
 <!-- shields -->
 
 Installation
